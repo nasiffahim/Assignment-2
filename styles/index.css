@@ -14,7 +14,18 @@
 
 
 /* header styles */
+/* marquee style */
+.sliding-info{
+    font-family: "Quicksand", serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
 
+.sliding-info > img{
+    height: 20px;
+    width: 20px;
+}
 
 /* navbar styles */
 .navbar{

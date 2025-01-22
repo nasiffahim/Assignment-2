@@ -83,6 +83,7 @@
 
 .banner{
     display: flex;
+    justify-content: space-between;
     align-items: center;
     margin: 1.25rem 8.75rem;
     gap: 3.125rem;
@@ -365,7 +366,7 @@ footer > div{
 
 .footer-logo > img{
     height: 82px;
-    max-width: 82px;
+    width: 82px;
 }
 
 .logo-header{
@@ -528,7 +529,7 @@ footer > div{
 
     .footer-container{
         flex-direction: column;
-        padding: 3rem 1.2rem;
+        padding: 3rem 3rem;
         gap: 1.5rem;
     }
    
